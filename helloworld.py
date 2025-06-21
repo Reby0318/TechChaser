@@ -97,4 +97,3 @@ try:
     print(10+int(number))
 except:
     print('That is not a valid number.')
-
